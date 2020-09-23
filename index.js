@@ -16,3 +16,24 @@ For extra credit, create a conditional that executes a message if the sum is ove
 ********************/
 
 // Your Solution:
+
+function myFunction(p1,p2){
+  return p1*p2;
+}
+document.getElementById ("example").innerHTML = "example";
+
+myFunction (3, 5);
+
+function getResult () {
+   let result;
+   if (result >14) {
+     result = 'true';
+   } else {
+     result = 'false';
+     }
+return result;
+
+}
+getResult ();
+
+
